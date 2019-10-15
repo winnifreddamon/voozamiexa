@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eequoyeetu.hopton10k.run/sitemap.xml
